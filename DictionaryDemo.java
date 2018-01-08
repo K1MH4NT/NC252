@@ -2,7 +2,7 @@ package miniproject;
 
 /**
  *
- * @author Sakdinon Khamnang
+ * @author nantawat5907401001
  */
 public class DictionaryDeMo 
 {
